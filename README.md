@@ -17,6 +17,7 @@ Esses projetos foram desenvolvidos com as seguintes tecnologias:
 - JavaScript
 
 <hr/>
+
 ## 📝 License
 This project is under MIT license. See the file LICENSE for more details.
 
